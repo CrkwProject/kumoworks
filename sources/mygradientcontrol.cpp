@@ -1,6 +1,6 @@
 #define _USE_MATH_DEFINES
 #include "mygradientcontrol.h"
-
+#include <QPainterPath>
 #include "mycontrol.h"
 #include "pathutils.h"
 
